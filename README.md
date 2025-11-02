@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🌟 Hi ,I'm Pravanjan Roul <snap>(B.tech CSE Undergrad) </snap>
-<br>🔭 I’m currently diving into my coding world and chasing with error constantly . <br>👯 I’m looking to collaborate on  to built open-source software project, AI/ML projects .<br>🤝  I’m looking for help with real-world project guidance .<br>🌱 I’m currently learning DSA ,ML , Strong  Backend Development .<br>💬 Ask me about Java, web development, <br>⚡ Fun fact: I enjoy turning my coding experiments into real-world gadgets.
+<br>🔭 I’m currently diving into my coding world and chasing with error constantly . <br>👯 I’m looking to collaborate on  to built open-source software project, AI/ML projects .<br>🤝  I’m looking for help with real-world project guidance .<br>🌱 I’m currently learning DSA ,ML , Strong  Backend Development with springboot, spring AI .<br>💬 Ask me about Java, web development, <br>⚡ Fun fact: I enjoy turning my coding experiments into real-world gadgets.
 <br> ✉️ You can reach out to me via Email pravanjanroul6@gmail.com<br>
 
 
