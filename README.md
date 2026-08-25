@@ -111,19 +111,11 @@ I'm currently focused on improving my problem-solving skills with **DSA** while 
 
 # 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pravanjan2004/Pravanjan2004/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Pravanjan2004/Pravanjan2004/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
 
----
 
-# 💭 Developer Mindset
 
-> **"Don't just write code. Build something that solves a real problem."**
 
-I believe the best way to learn software development is to **build, break, debug, improve, and repeat.**
-
----
 
 <p align="center">
   ⭐ If you find my projects interesting, consider giving them a star!
