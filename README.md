@@ -1,32 +1,9 @@
 # 👋 Hi, I'm Pravanjan Roul
 
-### ☕ Java Backend Developer | Spring Boot Enthusiast | B.Tech CSE Undergraduate
+### ☕ Java Fullstack Developer | Spring Boot Enthusiast | B.Tech CSE Undergraduate
 
-I enjoy building **backend applications, REST APIs, database-driven systems, and AI-powered applications** using Java and Spring Boot.
 
-I'm currently focused on improving my problem-solving skills with **DSA** while developing real-world backend projects.
-
----
-
-## 🚀 About Me
-
-🎓 **B.Tech Computer Science & Engineering Undergraduate**
-
-☕ Passionate about **Java Backend Development**
-
-🌱 Currently learning **Java, DSA, Spring Boot, Spring AI and Backend Development**
-
-🔨 Building **REST APIs and database-driven applications**
-
-🗄️ Interested in **MySQL, JPA, Hibernate and database design**
-
-🤖 Exploring **AI integration with Spring AI**
-
-🔐 Learning **authentication, authorization and secure backend development**
-
-🤝 Open to collaborating on **Java, Spring Boot, Backend and Open Source projects**
-
-💡 My goal is to become a **strong and industry-ready Backend Developer**
+I’m a **Computer Science undergraduate and aspiring Software Engineer** with a strong interest in **Java backend development**. I build **robust backend applications, RESTful APIs, and database-driven solutions** using Java and Spring Boot, while strengthening my **DSA and problem-solving skills** through real-world projects.
 
 📫 **Email:** [pravanjanroul6@gmail.com](mailto:pravanjanroul6@gmail.com)
 
