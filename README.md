@@ -2,10 +2,11 @@
 
 ### ☕ Java Fullstack Developer | Spring Boot Enthusiast | B.Tech CSE Undergraduate
 
-
-I’m a **Computer Science undergraduate and aspiring Software Engineer** with a strong interest in **Java backend development**. I build **robust backend applications, RESTful APIs, and database-driven solutions** using Java and Spring Boot, while strengthening my **DSA and problem-solving skills** through real-world projects.
+I'm a **Computer Science undergraduate and aspiring Software Engineer** with a strong interest in **Java backend development**. I build **robust backend applications, RESTful APIs, and database-driven solutions** using Java and Spring Boot, while strengthening my **DSA and problem-solving skills** through real-world projects.
 
 📫 **Email:** [pravanjanroul6@gmail.com](mailto:pravanjanroul6@gmail.com)
+🌐 **Portfolio:** [https://pravanjanroul-portfolio.vercel.app/](https://pravanjanroul-portfolio.vercel.app/)
+
 
 ---
 
