@@ -4,14 +4,17 @@
 
 <p align="left">
   <a href="https://pravanjanroul-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-2563EB?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-238636?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pravanjan-roul-6543a7302/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:pravanjanroul6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-Computer Science undergraduate and aspiring Software Engineer passionate about **Java development, backend engineering, and scalable software systems**. Interested in designing RESTful APIs, database-driven applications, distributed systems, and reliable backend architectures.
+Computer Science undergraduate and aspiring Software Engineer passionate about **Java development, backend engineering, and scalable software systems**. Interested in developing RESTful APIs, database-driven applications, and reliable backend architectures.
 
 - 🎓 B.Tech – Computer Science & Engineering
 - 💻 Primary Focus: Java Backend Development
@@ -24,59 +27,59 @@ Computer Science undergraduate and aspiring Software Engineer passionate about *
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
+### 💻 Programming Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,c,python" />
 </p>
 
-**Backend Development**
+### ⚙️ Backend Development
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
 </p>
 
 `Java 21` · `Spring Framework` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `JDBC` · `REST APIs` · `DTOs` · `Lombok` · `Maven`
 
-**Database & Caching**
+### 🗄️ Database & Caching
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis" />
 </p>
 
 `PostgreSQL` · `MySQL` · `SQL` · `Redis` · `Database Design`
 
-**Messaging & Distributed Systems**
+### 📨 Messaging & Distributed Systems
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=kafka" />
 </p>
 
 `Apache Kafka` · `Event-Driven Architecture` · `Message Queues` · `Microservices`
 
-**Security & Authentication**
+### 🔐 Security & Authentication
 
-`Spring Security` · `OAuth 2.0` · `Authentication` · `Authorization` · `JWT`
+`Spring Security` · `OAuth 2.0` · `JWT` · `Authentication` · `Authorization`
 
-**Frontend Development**
+### 🌐 Frontend Development
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 `HTML5` · `CSS3` · `JavaScript` · `React` · `JSON`
 
-**Testing & Development Tools**
+### 🧪 Testing & Development Tools
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,docker,idea,vscode,linux" />
 </p>
 
 `JUnit` · `Mockito` · `Postman` · `Git` · `GitHub` · `Docker` · `IntelliJ IDEA` · `VS Code` · `Linux`
 
-**Cloud & Deployment**
+### ☁️ Cloud & DevOps
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
 </p>
 
@@ -100,8 +103,11 @@ Computer Science undergraduate and aspiring Software Engineer passionate about *
 
 <p align="center">
   <a href="https://pravanjanroul-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Pravanjan2004">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -123,10 +129,14 @@ Computer Science undergraduate and aspiring Software Engineer passionate about *
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravanjan2004&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Contribution Activity
+---
+
+## 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pravanjan2004&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity" />
+  <a href="https://github.com/Pravanjan2004">
+    <img src="https://ghchart.rshah.org/Pravanjan2004" alt="GitHub Contribution Graph" width="100%" />
+  </a>
 </p>
 
 ---
@@ -136,5 +146,5 @@ Computer Science undergraduate and aspiring Software Engineer passionate about *
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pravanjan2004&label=Profile%20Views&color=2563EB&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Pravanjan2004&label=Profile%20Views&color=238636&style=flat-square" />
 </p>
