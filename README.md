@@ -131,15 +131,6 @@ Computer Science undergraduate and aspiring Software Engineer passionate about *
 
 ---
 
-## 📈 GitHub Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/Pravanjan2004">
-    <img src="https://ghchart.rshah.org/Pravanjan2004" alt="GitHub Contribution Graph" width="100%" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <i>Building reliable software. Solving problems. Growing as an engineer.</i>
